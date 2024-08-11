@@ -22,7 +22,7 @@ public class PlayerMovement : MonoBehaviour
     void Update()
     {
         PlayerMove();
-        PlayerMoveAnim();
+        //PlayerMoveAnim();
     }
 
     void PlayerMove()

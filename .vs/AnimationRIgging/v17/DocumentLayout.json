@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\shrey\\OneDrive\\Desktop\\Unity\\AnimationRIgging\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7D066512-ECC8-8415-2D11-ED4988DE0015}|Assembly-CSharp.csproj|c:\\users\\shrey\\onedrive\\desktop\\unity\\animationrigging\\assets\\scripts\\objectgrabbable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D066512-ECC8-8415-2D11-ED4988DE0015}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objectgrabbable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7D066512-ECC8-8415-2D11-ED4988DE0015}|Assembly-CSharp.csproj|C:\\Users\\shrey\\OneDrive\\Desktop\\Unity\\AnimationRIgging\\assets\\scripts\\itemgrab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D066512-ECC8-8415-2D11-ED4988DE0015}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemgrab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D066512-ECC8-8415-2D11-ED4988DE0015}|Assembly-CSharp.csproj|c:\\users\\shrey\\onedrive\\desktop\\unity\\animationrigging\\assets\\scripts\\objectgrabbable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D066512-ECC8-8415-2D11-ED4988DE0015}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objectgrabbable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D066512-ECC8-8415-2D11-ED4988DE0015}|Assembly-CSharp.csproj|c:\\users\\shrey\\onedrive\\desktop\\unity\\animationrigging\\assets\\scripts\\followtargetforcanavs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D066512-ECC8-8415-2D11-ED4988DE0015}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\followtargetforcanavs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D066512-ECC8-8415-2D11-ED4988DE0015}|Assembly-CSharp.csproj|C:\\Users\\shrey\\OneDrive\\Desktop\\Unity\\AnimationRIgging\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,33 +38,46 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "FollowTargetForCanavs.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Desktop\\Unity\\AnimationRIgging\\Assets\\Scripts\\FollowTargetForCanavs.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FollowTargetForCanavs.cs",
+              "ToolTip": "C:\\Users\\shrey\\OneDrive\\Desktop\\Unity\\AnimationRIgging\\Assets\\Scripts\\FollowTargetForCanavs.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FollowTargetForCanavs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T13:31:44.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "ObjectGrabbable.cs",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Desktop\\Unity\\AnimationRIgging\\Assets\\Scripts\\ObjectGrabbable.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ObjectGrabbable.cs",
               "ToolTip": "C:\\Users\\shrey\\OneDrive\\Desktop\\Unity\\AnimationRIgging\\Assets\\Scripts\\ObjectGrabbable.cs",
               "RelativeToolTip": "Assets\\Scripts\\ObjectGrabbable.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBgAAAANAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-11T07:16:15.305Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ItemGrab.cs",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Desktop\\Unity\\AnimationRIgging\\Assets\\Scripts\\ItemGrab.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ItemGrab.cs",
               "ToolTip": "C:\\Users\\shrey\\OneDrive\\Desktop\\Unity\\AnimationRIgging\\Assets\\Scripts\\ItemGrab.cs",
               "RelativeToolTip": "Assets\\Scripts\\ItemGrab.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-11T06:37:49.071Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CameraMovement.cs",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Desktop\\Unity\\AnimationRIgging\\Assets\\Scripts\\CameraMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CameraMovement.cs",
@@ -72,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Desktop\\Unity\\AnimationRIgging\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
@@ -84,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "LookAtObject.cs",
               "DocumentMoniker": "C:\\Users\\shrey\\OneDrive\\Desktop\\Unity\\AnimationRIgging\\Assets\\Scripts\\LookAtObject.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\LookAtObject.cs",

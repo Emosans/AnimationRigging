@@ -9,7 +9,7 @@ public class ItemGrab : MonoBehaviour
     public LayerMask layerMask;
     public Transform grabPoint;
     private ObjectGrabbable grabbable;
-    private bool isItemHeld;
+    
     private void Awake()
     {
         textPanel.SetActive(false);

@@ -26,13 +26,13 @@ public class ItemGrab : MonoBehaviour
         {
             if(grabbable == null)
             {
-                if (Physics.Raycast(grabPoint.position, grabPoint.forward, out RaycastHit raycastHit, 5f, layerMask))
+                if (Physics.Raycast(grabPoint.position, grabPoint.forward, out RaycastHit raycastHit, 5f, layerMask) && raycastHit.transform.TryGetComponent(out grabbable))
                 {
-                    if (raycastHit.transform.TryGetComponent(out grabbable))
-                    {
+                    //if (raycastHit.transform.TryGetComponent(out grabbable))
+                    
                         grabbable.Grab(grabPoint);
 
-                    }
+                    
                 }
             }
             else
